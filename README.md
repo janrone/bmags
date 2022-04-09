@@ -1,2 +1,2 @@
-# bmags
+# bmages
 image for blog 
